@@ -21,7 +21,7 @@ personal-portfolio/
    — instagram.png
    — twitter.png
    — working(2).png
-─ README.md
+─ README 1.md
 
 
 index.html:
