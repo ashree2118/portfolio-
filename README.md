@@ -1,5 +1,5 @@
 
-Portfolio Website - using HTML and CSS
+Portfolio Website - using HTML, CSS and JAVASCRIPT
 
 
 
