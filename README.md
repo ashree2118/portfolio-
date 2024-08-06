@@ -13,6 +13,7 @@ This is a portfolio website which displays my technical skills and experiences. 
 
 - HTML 
 - CSS
+- JAVASCRIPT
 
 
 
