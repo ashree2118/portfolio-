@@ -29,22 +29,11 @@ Install my-project with VScode
 
 💡 What Drives Me:
 
-Innovation: I love exploring new design trends and frontend technologies to stay ahead of the curve and bring fresh perspectives to my projects.
-User Experience: My goal is to create intuitive and delightful experiences that not only look great but also function seamlessly.
-Collaboration: I believe in the power of teamwork and enjoy working closely with clients and colleagues to turn visions into reality.
-🛠️ Skills:
+Innovation: I love exploring new design trends and frontend technologies to stay ahead of the curve and bring fresh perspectives to my projects. User Experience: My goal is to create intuitive and delightful experiences that not only look great but also function seamlessly. Collaboration: I believe in the power of teamwork and enjoy working closely with clients and colleagues to turn visions into reality. 🛠️ Skills:
 
-Frontend: HTML5, CSS3, JavaScript, React, Vue.js
-Design: Adobe Creative Suite, Figma, Sketch, UI/UX Design
-Tools: Git, Webpack, Sass, responsive design
-🌟 Fun Fact: When I’m not coding or designing, you might find me exploring the latest graphic design trends, tinkering with new tech gadgets, or diving into a good book.
+Frontend: HTML5, CSS3, JavaScript, React, Vue.js Design: Adobe Creative Suite, Figma, Sketch, UI/UX Design Tools: Git, Webpack, Sass, responsive design 🌟 Fun Fact: When I’m not coding or designing, you might find me exploring the latest graphic design trends, tinkering with new tech gadgets, or diving into a good book.
 
 Let’s connect and build something amazing together! Feel free to reach out or check out my projects below.
 
 connect with me on linkedin- https://www.linkedin.com/in/anushree-558056292/
-
-
-## Support
-
-For support, email ashree2118@gmail.com 
 
